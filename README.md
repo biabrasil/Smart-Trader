@@ -1,7 +1,8 @@
 # Smart-Trader
 Smart Trader allows users to input a stock ticker (e.g., AAPL, TSLA, MSFT) and receive AI-powered insights about the stock’s outlook. The app fetches and displays a combination of technical indicators, analyst-style recommendations, recent news articles, social media buzz, and geopolitical factors that may influence the stock.
 
-<img width="1900" height="929" alt="Screenshot 2025-08-19 234353" src="https://github.com/user-attachments/assets/51317643-904c-41dd-847c-e0cc06c57963" />
+<img width="1563" height="921" alt="Screenshot 2025-08-19 234849" src="https://github.com/user-attachments/assets/db067c1a-48e1-4d17-974c-fcb98620c7ba" />
+
 
 ## When a user enters a ticker:
 
