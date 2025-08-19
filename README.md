@@ -16,5 +16,5 @@ Social Buzz shows trending discussions or sentiments from platforms like Twitter
 
 Geopolitical & Market Analysis highlights broader external factors and risk scores that could impact the stock’s performance.
 
-# Tech Stack
+## Tech Stack
 The app is built with React + Tailwind CSS for a modern, responsive UI, and leverages a custom hook (useStockIntel) to fetch stock intelligence data asynchronously. It emphasizes clarity, interactivity, and a holistic view of market sentiment to help users make informed decisions quickly.
